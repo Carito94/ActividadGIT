@@ -1,0 +1,13 @@
+
+nav{height: 80px;}
+#RightBar{position:relative; left:40%;} 
+#TítuloBA{font-size: 40px;}
+#TextodeImagen{color:white; position:absolute; top: 35%;text-align: right;left:64%; width: 550px;}
+#ImagenesBA img{filter:brightness(50%);}
+#TítuloOradores{text-align: center;}
+#Honolulu{border: white;}
+#Formulario{position:relative; left:35%;}
+div h5{font-size: 20px;}
+.flex-container{display:flex;justify-content: center;}
+.flex-item {text-align: center; margin-left: 30px;}
+

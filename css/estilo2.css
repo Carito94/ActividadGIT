@@ -1,0 +1,19 @@
+nav{height: 80px;}
+#RightBar{position:relative; left:40%;} 
+
+div h5{font-size: 20px;}
+
+.container{display:flex; justify-content: center;}
+#Estudiante, #Trainee, #Junior{text-align:center; margin:2px;padding:10px;height:200px; width: 300px;align-items: center;}
+
+#Estudiante{ border: 2px solid lightblue; }
+#Trainee{ border:2px solid greenyellow;}
+#Junior{border:2px solid yellow;}
+p small{color:gray}
+
+#TítuloFormulario{text-align: center;justify-content: center;}
+form{position:relative;left:25%;}
+form .flex-item{margin:2px;}
+
+.flex-container{display:flex;justify-content:center;}
+.flex-item {text-align: center; margin-left: 30px;}
